@@ -27,5 +27,8 @@ public enum Cell {
 
     public String getSymbol() {
         return symbol;
+//**************************
+//654654651
+//-*-*-2
     }
 }
